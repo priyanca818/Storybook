@@ -4,7 +4,7 @@ import styled from 'styled-components'
 export const TooltipContainer = styled.div<ITooltipProps>`
 width:fit-content;
 border-bottom: 1px dotted black;  
-  color:yellow;
+  color:purple;
   position: fixed;
     display: block;
     top: 50%;
